@@ -9,7 +9,7 @@
   - **Buck** — My 24/7 AI personal assistant and Subagents Manager  (OpenClaw)
   - **Homelab Linux Server** - Plex Server, Adguard, Docker, Openclaw, NAS 
   - Agent swarm orchestration with parallel subagents
-  - Semantic memory system (MemPalace integration in progress)
+  - Semantic memory system for AI Agents
   - **Council of LLMs** — Multi-model deliberation for high-stakes decisions
   
 - **Open Source Contributions** 
