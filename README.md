@@ -29,7 +29,7 @@
   - Automated skill extraction from subagent workflows
   - Prompt injection defense & security hardening
 
-- **German Language**
+- **German Language** (B1)
 
 ## 👯 I'm looking to collaborate on
 
