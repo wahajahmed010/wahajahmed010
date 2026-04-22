@@ -41,7 +41,7 @@
 
 ## 🤝 I'm looking for help with
 
-- **Job referrals** — Frankfurt/EU tech companies hiring AI/ML/Data Engineers
+- **Job referrals** — Frankfurt/EU tech companies hiring IT/Network/Data/Product Engineers
 - **Portfolio review** — Need to deploy live projects (gap in my resume)
 - **Open Source mentorship** — Best practices for maintainers
 
@@ -49,13 +49,13 @@
 
 - **AI Agents** — Building 24/7 autonomous assistants
 - **OpenClaw** — Local-first agent framework
-- **CCNA Study** — 16-week plan and resources
+- **Claude Code** — Vibe Coding
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C · C# · JavaScript/TypeScript · Go · SQL
+**Languages:** Python · C · C# · R · Matlab · SQL
 
-**AI/ML:** Ollama · Kimi K2.6 · ChromaDB · Semantic Search · RAG
+**AI/ML:** MCP · Agentic AI · ChromaDB · Semantic Search · RAG
 
 **Infrastructure:** Docker · Linux · UFW · AdGuard · Tailscale · Nginx
 
