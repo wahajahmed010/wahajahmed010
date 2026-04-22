@@ -70,7 +70,7 @@
 
 ---
 
-**📫 Reach me:** [LinkedIn](your-linkedin) · [Email](mailto:wahaj.ahmed010@gmail.com) · [Telegram](https://t.me/wahajahmed010)
+**📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/wahaj-ahmed/) · [Email](mailto:wahaj.ahmed010@gmail.com) · [Telegram](https://t.me/wahajahmed010)
 
 **🌐 Portfolio:** [wahajahmed010.github.io](https://wahajahmed010.github.io) (WIP)
 
