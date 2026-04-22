@@ -12,6 +12,7 @@
   - Homelab Server 
   - Agent swarm orchestration with parallel subagents
   - Semantic memory system (MemPalace integration in progress)
+  - **Council of LLMs** — Multi-model deliberation for high-stakes decisions
   
 - **Open Source Contributions** — 3+ PRs/night via automated pipeline
   - [MemPalace](https://github.com/MemPalace/mempalace) — Local-first AI memory
