@@ -2,8 +2,6 @@
 
 **AI Agent Architect · Open Source Contributor · MSc High Integrity Systems Student**
 
-📍 Frankfurt am Main, Germany · 🕐 Europe/Berlin
-
 ---
 
 ## 🔭 I'm currently working on
