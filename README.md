@@ -8,24 +8,22 @@
 
 ## 🔭 I'm currently working on
 
-- **Buck** — My 24/7 AI personal assistant (OpenClaw + Kimi K2.6)
-  - Homelab Server 
+  - **Buck** — My 24/7 AI personal assistant and Subagents Manager  (OpenClaw)
+  - **Homelab Linux Server** - Plex Server, Adguard, Docker, Openclaw, NAS 
   - Agent swarm orchestration with parallel subagents
   - Semantic memory system (MemPalace integration in progress)
   - **Council of LLMs** — Multi-model deliberation for high-stakes decisions
   
-- **Open Source Contributions** — 3+ PRs/night via automated pipeline
+- **Open Source Contributions** 
   - [MemPalace](https://github.com/MemPalace/mempalace) — Local-first AI memory
   - [drt](https://github.com/drt-hub/drt) — Data routing tool
   - [memtomem](https://github.com/memtomem/memtomem) — Python memory management
   - [gfi-bot](https://github.com/osslab-pku/gfi-bot) — Good first issue finder
 
-- **Job Search Pipeline** — Frankfurt/EU tech market
+- **Job Search** — Frankfurt/EU tech market
   - IT Helpdesk · Data Engineer · Product Management roles
 
 ## 🌱 I'm currently learning
-
-- **CCNA Certification** — 16-week study plan (Target: August 2026)
   - Networking fundamentals → Switching → Routing → Services/Security → Automation
   
 - **AI Agent Architecture**
