@@ -31,10 +31,7 @@
   - Automated skill extraction from subagent workflows
   - Prompt injection defense & security hardening
 
-- **German Market**
-  - Motivationsschreiben writing
-  - EU work visa requirements
-  - ATS optimization (70-75%+ safe threshold)
+- **German Language**
 
 ## 👯 I'm looking to collaborate on
 
