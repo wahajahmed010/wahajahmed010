@@ -1,6 +1,6 @@
 # Wahaj Ahmed
 
-**AI Agent Architect · Open Source Contributor · MSc High Integrity Systems Student**
+**AI Agent Orchestrator · Open Source Contributor · MSc High Integrity Systems Student**
 
 ---
 
@@ -12,12 +12,6 @@
   - Semantic memory system for AI Agents
   - **Council of LLMs** — Multi-model deliberation for high-stakes decisions
   
-- **Open Source Contributions** 
-  - [MemPalace](https://github.com/MemPalace/mempalace) — Local-first AI memory
-  - [drt](https://github.com/drt-hub/drt) — Data routing tool
-  - [memtomem](https://github.com/memtomem/memtomem) — Python memory management
-  - [gfi-bot](https://github.com/osslab-pku/gfi-bot) — Good first issue finder
-
 - **Job Search** — Frankfurt/EU tech market
   - IT Helpdesk · Data Engineer · Product Management roles
 
