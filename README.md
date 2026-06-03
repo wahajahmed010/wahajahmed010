@@ -4,17 +4,6 @@
 
 ---
 
-## 🔭 I'm currently working on
-
-  - **Buck** — My 24/7 AI personal assistant and Subagents Manager  (OpenClaw)
-  - **Homelab Linux Server** - Plex Server, Adguard, Docker, Openclaw, NAS 
-  - Agent swarm orchestration with parallel subagents
-  - Semantic memory system for AI Agents
-  - **Council of LLMs** — Multi-model deliberation for high-stakes decisions
-  
-- **Job Search** — Frankfurt/EU tech market
-  - IT Helpdesk · Data Engineer · Product Management roles
-
 ## 🌱 I'm currently learning
   - Networking fundamentals → Switching → Routing → Services/Security → Automation
   
