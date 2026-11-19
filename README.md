@@ -18,8 +18,6 @@
 - **Data & Analytics**
   - FX and market data
   - Tableau & Plotly Dash
-
-- **German Language** (B1)
   
 ## I'm looking to collaborate on
 
