@@ -1,53 +1,59 @@
 # Wahaj Ahmed
 
-**AI Agent Orchestrator · Open Source Contributor · MSc High Integrity Systems Student**
+**Data Analyst · Agentic AI Mechanic · Open Source & Local LLM Advocate **
 
 ---
 
 ## 🌱 I'm currently learning
-  - Networking fundamentals → Switching → Routing → Services/Security → Automation
-  
+
+- **Networking fundamentals**
+  - Switching → Routing → Services/Security → Automation
+
 - **AI Agent Architecture**
   - Multi-model councils for high-stakes decisions
   - Automated skill extraction from subagent workflows
   - Prompt injection defense & security hardening
+  - LangChain & LangGraph
+
+- **Data & Analytics**
+  - FX and market data
+  - Tableau & Plotly Dash
 
 - **German Language** (B1)
-
+  
 ## 👯 I'm looking to collaborate on
 
-- **Open Source Tools** — especially Python CLI tools, dev tools, AI infrastructure
-- **Agent Frameworks** — OpenClaw, MemPalace, multi-agent orchestration
-- **Embedded/IoT** — Zephyr RTOS, CoAP protocols, sensor networks
+- **Open Source Tools** - especially Python CLI tools, dev tools, AI infrastructure
+- **Agent Frameworks** - OpenClaw, MemPalace, multi-agent orchestration
+- **Local LLMs** - self-hosted models and tooling
+- **Embedded/IoT** - Zephyr RTOS, CoAP protocols, sensor networks
 
 ## 🤝 I'm looking for help with
 
-- **Job referrals** — Frankfurt/EU tech companies hiring IT/Network/Data/Product Engineers
-- **Portfolio review** — Need to deploy live projects (gap in my resume)
-- **Open Source mentorship** — Best practices for maintainers
+- **Portfolio review** - Need to deploy live projects
+- **Open Source mentorship** - Best practices for maintainers
 
 ## 💬 Ask me about
 
-- **AI Agents** — Building 24/7 autonomous assistants
-- **OpenClaw** — Local-first agent framework
-- **Claude Code** — Vibe Coding
+- **AI Agents** - Building 24/7 autonomous assistants
+- **OpenClaw** - Local-first agent framework
+- **Claude Code** - Vibe Coding
+- **Data work** - Python, SQL, Plotly, data models for operations
+
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C · C# · R · Matlab · SQL
+**Languages:** Python · C · C# · R · Matlab · SQL · JavaScript
 
-**AI/ML:** MCP · Agentic AI · ChromaDB · Semantic Search · RAG
+**Data:** pandas · Plotly · matplotlib
+
+**AI/ML:** MCP · Agentic AI · LangChain · LangGraph · ChromaDB · Semantic Search · RAG · Local LLMs
 
 **Infrastructure:** Docker · Linux · UFW · AdGuard · Tailscale · Nginx
 
 **Embedded:** Zephyr RTOS · CoAP · MQTT · nRF52 · ESP32
 
-**Tools:** Claude Code · OpenClaw · MemPalace · GitHub Actions
+**Tools:** Claude Code · Codex · Antigravity · OpenClaw · Hermes · MemPalace · GitHub Actions
 
 ---
 
-**📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/wahaj-ahmed/) · [Email](mailto:wahaj.ahmed010@gmail.com) · [Telegram](https://t.me/wahajahmed010)
-
-**🌐 Portfolio:** [wahajahmed010.github.io](https://wahajahmed010.github.io) (WIP)
-
-**⚡ Open to:** Full-time · Contract · Remote · Hybrid (Frankfurt area)
