@@ -4,7 +4,7 @@
 
 ---
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
 - **Networking fundamentals**
   - Switching → Routing → Services/Security → Automation
@@ -21,19 +21,19 @@
 
 - **German Language** (B1)
   
-## 👯 I'm looking to collaborate on
+## I'm looking to collaborate on
 
 - **Open Source Tools** - especially Python CLI tools, dev tools, AI infrastructure
 - **Agent Frameworks** - OpenClaw, MemPalace, multi-agent orchestration
 - **Local LLMs** - self-hosted models and tooling
 - **Embedded/IoT** - Zephyr RTOS, CoAP protocols, sensor networks
 
-## 🤝 I'm looking for help with
+## I'm looking for help with
 
 - **Portfolio review** - Need to deploy live projects
 - **Open Source mentorship** - Best practices for maintainers
 
-## 💬 Ask me about
+## Ask me about
 
 - **AI Agents** - Building 24/7 autonomous assistants
 - **OpenClaw** - Local-first agent framework
@@ -41,7 +41,7 @@
 - **Data work** - Python, SQL, Plotly, data models for operations
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python · C · C# · R · Matlab · SQL · JavaScript
 
