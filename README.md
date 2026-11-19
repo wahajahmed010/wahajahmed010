@@ -1,6 +1,6 @@
 # Wahaj Ahmed
 
-**Data Analyst · Agentic AI Mechanic · Open Source & Local LLM Advocate **
+**Data Analyst · Agentic AI Mechanic · Open Source & Local LLM Advocate**
 
 ---
 
